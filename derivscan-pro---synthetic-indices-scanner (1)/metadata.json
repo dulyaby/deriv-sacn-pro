@@ -1,0 +1,6 @@
+{
+  "name": "DerivScan Pro - Synthetic Indices Scanner",
+  "description": "Institutional real-time trading scanner, digit probability analyzer, and signal dashboard for Deriv Synthetic Indices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

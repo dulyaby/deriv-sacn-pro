@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user_pro_demo",
+    "email": "trader@derivscan.pro",
+    "name": "Alex Pro Trader",
+    "passwordHash": "$2b$10$WLU0PU0dCMLSQzaqY/7L0ejPJzFoCI79.IHfL2LbWdLcUJ1Y7gIHS",
+    "tier": "MONTHLY",
+    "tierExpiresAt": 1792889662204,
+    "createdAt": 1789433662204,
+    "derivAppId": "1089",
+    "derivToken": "pat_642200ea5f4790e185f9a837bec7349e3e7883a3e754865c05efc711f6d033a6",
+    "derivAccount": {
+      "loginid": "CR2983411",
+      "balance": 2450.5,
+      "currency": "USD",
+      "isVirtual": false
+    }
+  },
+  {
+    "id": "user_free_demo",
+    "email": "free@derivscan.pro",
+    "name": "Guest Trader",
+    "passwordHash": "$2b$10$zOeDknb96xtBJbzRX5VXquMvO27aSEswaWk9qDn0QsYDxgB4gr0gK",
+    "tier": "FREE",
+    "tierExpiresAt": null,
+    "createdAt": 1790124862297,
+    "derivAppId": "1089"
+  }
+]
